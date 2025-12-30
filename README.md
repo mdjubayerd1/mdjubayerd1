@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Md. Jubayer! 👋
 
-<!--
-**mdjubayerd1/mdjubayerd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 BTech Computer Science & Engineering Junior
+I am a passionate developer who loves building innovative web applications and solving complex problems. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Full Stack Web Projects**
+- 🌱 I’m currently learning **Advanced React & AI Integration**
+- 💬 Ask me about **JavaScript, HTML, and Frontend Design**
+- ⚡ Fun fact: I love to create new things from scratch!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,github,vscode,py,cpp" />
+  </a>
+</p>
+
+---
